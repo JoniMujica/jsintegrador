@@ -14,7 +14,7 @@ const datable = [
         id: 1,
         title: 'Sony Came',
         alt: 'Sony Camera FULL HD',
-        url: imagen1,
+        src: imagen1,
         descripcion:'Camra FULL HD ultimo modelo digital!',
         price: 1500
     },
@@ -22,7 +22,7 @@ const datable = [
         id: 2,
         title: 'HP Envy',
         alt: 'Laptop HP envy',
-        url: imagen2,
+        src: imagen2,
         descripcion:'Notebook HP envy 360° SDD 500GB 16gb RAM I7',
         price: 1500
     },
@@ -30,7 +30,7 @@ const datable = [
         id: 3,
         title: 'Iphone',
         alt: 'Iphone ONE',
-        url: imagen3,
+        src: imagen3,
         adescripcionbout:'IPHONE ONE! lo ultimo en tecnologia',
         price: 5200
     }
