@@ -31,7 +31,7 @@ const datable = [
         title: 'Iphone',
         alt: 'Iphone ONE',
         src: imagen3,
-        adescripcionbout:'IPHONE ONE! lo ultimo en tecnologia',
+        descripcion:'IPHONE ONE! lo ultimo en tecnologia',
         price: 5200
     }
 ];
