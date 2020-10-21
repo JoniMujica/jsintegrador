@@ -25,3 +25,8 @@ body{
     font-family: arial;
     border: solid green 2px;
 }
+
+img{
+    height: 250px;
+    width: 100%;
+}
