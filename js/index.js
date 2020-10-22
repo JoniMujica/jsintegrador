@@ -45,7 +45,8 @@ function cargarElementos(){
 
 } 
 
-validarDatos = () => {
+// esta funcion me valida si el array contiene elementos o no
+var validarDatos = () => {
     return datos.length != 0 ? true : false
 }
 
