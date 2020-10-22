@@ -49,12 +49,5 @@ validarDatos = () => {
     return datos.length != 0 ? true : false
 }
 
-function createElement(str)
-{
-  var div = document.createElement('div');
-  div.innerHTML = str;
-  return div.childNodes;
-}
-
 //cuando cargue el HTML, manda a ejecutar la funcion 'cargarElementos'
 window.addEventListener('load',cargarElementos);
