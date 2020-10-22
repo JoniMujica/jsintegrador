@@ -45,7 +45,7 @@ function cargarElementos(){
 
 } 
 
-function validarDatos(){
+validarDatos = () => {
     return datos.length != 0 ? true : false
 }
 
